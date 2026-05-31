@@ -1,2 +1,13 @@
-# spam-email-detector
-A simple Machine Learning project that classifies emails as spam or not spam using Python, Pandas, and Scikit-learn.
+# Spam Email Detector
+
+A Machine Learning project that detects spam emails.
+
+## Technologies Used
+
+- Python
+- Pandas
+- Scikit-Learn
+
+## Output Screenshot
+
+![Output](screenshot.png)
